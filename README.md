@@ -357,6 +357,4 @@ If you found this project helpful, please consider:
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen" alt="Profile Views">
-</div>
+
